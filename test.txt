@@ -1,3 +1,4 @@
 hi
 hello
 안녕
+bye
